@@ -23,7 +23,7 @@ POST URL
 http://localhost:5000/api
 ```
 JSON PAYLOAD
-```json
+```json 
 {
     "exp":10
 }
